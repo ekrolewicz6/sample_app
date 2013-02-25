@@ -1,4 +1,8 @@
 sample_app
 ==========
 
-Rails Tutorial Sample App
+This is a sample application I made which includes:
+  - page routing
+  - sign up page
+  - database of users
+  - 
